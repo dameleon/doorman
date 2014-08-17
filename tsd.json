@@ -1,0 +1,8 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "frontend_src/ts/tsd/d.ts",
+  "bundle": "frontend_src/ts/tsd/tsd.d.ts",
+  "installed": {}
+}
